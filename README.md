@@ -61,6 +61,5 @@ __________________________
 ## Links
 __________________________
 - [Project Spec](https://frontend.turing.edu/projects/module-3/stretch.html)
-- UI [GitHub](https://github.com/dstavis/tasterx)
 - Server & Database [GitHub](https://github.com/aspitz1/tasterx-api)
 - Work ticket kanban [Trello Board](https://trello.com/b/X48waU4e/tasterx)
