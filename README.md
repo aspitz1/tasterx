@@ -8,7 +8,7 @@ Do you have good taste in TV shows?  Do you think the world would be a better pl
 The four members of this project collaborated remotely. We used daily stand-ups, screensharing over Zoom, GitHub Pull Requests, Code Reviews, Kanban-style project board tickets, and Slack to remain productive on a tight schedule. With just 11 part-time days to determine our concept, collect design inspiration, wireframe our proposed features, learn new technologies, and build an end-to-end tested frontend app with backend server and database, teamwork and collaboration was vital to achieve our goals.
 
 * Learning Goals:
-    * Without instruction, learn how to attach a database to our backend in order to persist user-generated data
+    * Without instruction, learn how to attach a [database](https://github.com/aspitz1/tasterx-api) to our backend in order to persist user-generated data
     * Become proficient in React, React Router, and E2E testing with Cypress
     * App development using React hooks in place of class components
 
@@ -57,5 +57,5 @@ __________________________
 __________________________
 - [Project Spec](https://frontend.turing.edu/projects/module-3/stretch.html)
 - UI [GitHub](https://github.com/dstavis/tasterx)
-- Server & Database [GitHub](https://github.com/dstavis/tasterx-api)
+- Server & Database [GitHub](https://github.com/aspitz1/tasterx-api)
 - Work ticket kanban [Trello Board](https://trello.com/b/X48waU4e/tasterx)
